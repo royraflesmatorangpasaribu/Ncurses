@@ -1,2 +1,2 @@
-# Ncurses
+# ncurses
 Program C++
