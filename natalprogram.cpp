@@ -19,7 +19,9 @@ int main(){
 		refresh();
 		Sleep(100);
 	}
+	//membersihkan layar
 	clear();
+	
 	while(true){
 		//membersihkan layar ncurses
 		clear();
