@@ -2,6 +2,7 @@
 #include<windows.h>
 
 int main(){
+	//deklarasi variabel
 	char nama[100];
 
 	//memulai layar ncurses
