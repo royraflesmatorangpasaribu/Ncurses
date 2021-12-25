@@ -25,7 +25,6 @@ int main(){
 	while(true){
 		//membersihkan layar ncurses
 		clear();
-		
 		//mencetak output di baris... dan kolom...
 		mvprintw(10, 48, "Selamat Natal 2021");
 		mvprintw(11, 48, " ");
