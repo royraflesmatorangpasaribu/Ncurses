@@ -1,6 +1,8 @@
 #include<ncurses/ncurses.h>
 #include<windows.h>
 
+//PROGRAM DIBUAT OLEH ROY RAFLES MATORANG PASARIBU
+
 int main(){
 	char nama[256];
 
