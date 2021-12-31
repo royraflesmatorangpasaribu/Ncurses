@@ -2,6 +2,9 @@
 #include <windows.h>
 using namespace std;
 
+//Program Dibuat oleh Roy Rafles Matorang Pasaribu
+//pada 31 Desember 2021
+
 //fungsi prosedur waktu
 void waktu(){
 	
