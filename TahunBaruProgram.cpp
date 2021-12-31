@@ -1,7 +1,8 @@
 #include<ncurses/ncurses.h>
 #include<windows.h>
 
-//PROGRAM DIBUAT OLEH ROY RAFLES MATORANG PASARIBU
+//Program dibuat oleh Roy Rafles Matorang Pasaribu
+//pada 31 Desember 2021
 
 int main(){
 	char nama[256];
