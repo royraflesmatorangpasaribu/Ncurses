@@ -24,4 +24,7 @@ int main(){
 	waktu();
 	cout<<"Selamat Tahun Baru 2022 Semoga Tahun ini menjadi tahun yang lebih baik dari tahun 2021"<<endl;
 	cout<<"\t\t\t\t\tTuhan Memberkati";
+	
+	//karena menggunakan fungsi main()
+	return 0;
 }
