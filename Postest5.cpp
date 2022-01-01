@@ -1,5 +1,6 @@
 #include<ncurses/ncurses.h>
 using namespace std;
+
 int main(){
 	initscr();
 	char nama[256], alamat[256], hobi[256];
@@ -18,5 +19,7 @@ int main(){
 	
 	getch();
 	endwin();
+	
+	//karena menggunakan fungsi main()
 	return 0;
 }
